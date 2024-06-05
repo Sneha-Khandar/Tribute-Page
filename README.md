@@ -60,7 +60,7 @@ Contributions are welcome! Please fork this repository, make your changes, and s
    ```
 5. Open a pull request.
  ## Task preview
- ![task preview](https://github.com/Sneha-Khandar/Tribute-Page/assets/168733144/16349ffd-5cfa-43b9-ae44-079fb458756a)
+![task preview](https://github.com/Sneha-Khandar/Tribute-Page/assets/168733144/a12de04b-ad59-43ea-8b8a-97a3986050dd)
    
 ## Contact
 
